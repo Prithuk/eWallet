@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Gojii</string>
+    <string name="facebook_app_id">568922230597945</string>
+    <string name="fb_login_protocol_scheme">fb568922230597945</string>
+    <string name="login">Login</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="logo">Logo</string>
+
+</resources>
